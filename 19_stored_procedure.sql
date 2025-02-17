@@ -1,5 +1,5 @@
 /*
-Para criar uma stored procedure no SQL Server para o banco de dados que você forneceu, vou sugerir um exemplo que insira uma nova compra na tabela tb_compra, 
+Para criar uma stored procedure no SQL Server para o banco de dados que você forneceu, um exemplo que insira uma nova compra na tabela tb_compra, 
 associando-a a um cliente (tb_cli) e a um funcionário (tb_func), além de vincular os produtos comprados na tabela tb_prod_comp.
 */
 
